@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>captcha</title>
+</head>
+<body>
+<!--    <img th:src="${captcha.captchaImage}" alt="captcha failed">-->
+    <img th:src="${'data:image/jpeg;charset=utf-8;base64,' + captcha.captchaImage}" alt="">
+</body>
+</html>
