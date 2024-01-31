@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hanibikdeli</groupId>
-	<artifactId>sentinel</artifactId>
+	<artifactId>sentinel-captcha</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sentinel</name>
 	<description>sentinel</description>
